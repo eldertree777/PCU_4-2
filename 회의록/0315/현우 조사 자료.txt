@@ -1,0 +1,38 @@
+스마트 미러란?
+
+스마트미러는 빛이 투과하는 필름을 유리나 아크릴판에 붙인 후, 
+뒤에 디스플레이, 마이크, 스피커, 전원어댑터로 이루어진 장치.
+매직 미러라는 오픈소스와 구글어시스턴트를 활용함.
+
+
+재료 라즈베리파이(+SD카드)		있음
+      라즈베리 충전기		있음
+      USB 마이크			5800 (+배송비 3000)
+      스피커			5000 (다이소) or https://www.icbanq.com/P007140113 
+      소형 스피커 			17620 (+ 배송비 2500)
+				https://smartstore.naver.com/epistay/products/6133062413?NaPm=ct%3Dl0t8b8a8%7Cci%3Dd7b1397ffce4ec3c3c140e0c191d1e862f093608%7Ctr%3Dslsl%7Csn%3D3289428%7Chk%3Db254d70e542a21813d773f819ccb7359df2a7b39
+	
+      디스플레이(모니터)		크기 별 가격 다름
+      하프미러필름25		18000(+배송비 3000)			※비고: 25가 거울로써 더 좋은거같음 (투과율,반사율 차이)
+      아크릴판(or 유리) 		2000 (+ 배송비 3000) or (문방구) 2000		※비고: https://smartstore.naver.com/ibsomoon84/products/5609711382?NaPm=ct%3Dl0t6d9rk%7Cci%3D7929383261a917f940bbdb95c137ac995cda0aba%7Ctr%3Dsls%7Csn%3D954021%7Chk%3D45730bbe5c2d8662582548a51fe41c7729ec93a8
+     
+      (선택)아크릴 전용칼 		3000(+배송비 2500)
+      (선택)케이스(?)
+ 
+
+ - 대략적인 순서
+1. 라즈베리파이 설치
+2. 스마트미러 소프트웨어 설치 (magic mirror or dakboard)
+3. 구글 어시스턴트 설치
+
+참고)
+스마트 미러 유튜브(심프팀) : https://www.youtube.com/watch?v=O3l46ogmgLY&ab_channel=%EC%8B%AC%ED%94%84%ED%8C%80SIMPTEAM
+※ DIY적 요소(실물) 만드는데 더 자세
+스마트 미러 유튜브(공대선배) : https://www.youtube.com/watch?v=wr0PnpvW5TE&t=0s&ab_channel=%EA%B3%B5%EB%8C%80%EC%84%A0%EB%B0%B0 (추천)
+※ 소프트웨어 만드는데 더 자세
+심프팀 재료 : https://docs.google.com/spreadsheets/d/1M6xkX_yt1_ZRi9QtjnnvVYwN88RPy_M4/edit#gid=1454660527
+
+스마트 미러 매뉴얼 : https://docs.google.com/document/d/1tTCdP6UnB0cpn7gpr9Bif5PXNImh2RHM95R093ElJ18/edit#heading=h.rlc239u6bn7j
+스마트 미러 블로그 : https://m.blog.naver.com/cosmosjs/221990876713
+
+구글 어시스턴트 SDK 가이드 : https://developers.google.com/assistant/sdk/guides/library/python/embed/setup
